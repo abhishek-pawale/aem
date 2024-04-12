@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Your Project's Title.....
+Your project's description......
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--aem--abhishek-pawale.hlx.page/
+- Live: https://main--aem--abhishek-pawale.hlx.live/
 
 ## Installation
 
